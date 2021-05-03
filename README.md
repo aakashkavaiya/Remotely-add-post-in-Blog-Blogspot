@@ -11,7 +11,7 @@ Link this form to Google Sheet (Prefer New sheet from Responses)
 
 Add Summary Column to get Email Response
 
-**Check This Google Sheet to See how it should like: [Demo Sheet](https://docs.google.com/spreadsheets/d/1M0qAO59qtOmu7hZTSC5aPlIVJkjkhWkCTinVkCO_738/copy "Demo Sheet")**
+**Check out This Google Sheet to See how it should look: [Demo Sheet](https://docs.google.com/spreadsheets/d/1M0qAO59qtOmu7hZTSC5aPlIVJkjkhWkCTinVkCO_738/copy "Demo Sheet")**
 
 In Google Sheet go to `Tools > Script Editor`
 

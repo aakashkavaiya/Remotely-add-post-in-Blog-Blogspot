@@ -1,6 +1,3 @@
-# Remotely-add-post-in-Blog-Blogspot
-Remotely add a Post in Your Blogger Blog, We are going to Use Email by Post method to add our post in Blog.
-
 Enable Post By Email Option in Your Blog and Get the Your Email Address for Sending Mail.
 
 For Full Explaination Go to This Post : Add Post by Email
@@ -13,7 +10,8 @@ For Full Explaination Go to This Post : Add Post by Email
 Link this form to Google Sheet (Prefer New sheet from Responses)
 
 Add Summary Column to get Email Response
-Check This Google Sheet to See how it should like: [Demo Sheet](https://docs.google.com/spreadsheets/d/1M0qAO59qtOmu7hZTSC5aPlIVJkjkhWkCTinVkCO_738/copy "Demo Sheet")
+
+**Check This Google Sheet to See how it should like: [Demo Sheet](https://docs.google.com/spreadsheets/d/1M0qAO59qtOmu7hZTSC5aPlIVJkjkhWkCTinVkCO_738/copy "Demo Sheet")**
 
 In Google Sheet go to `Tools > Script Editor`
 
@@ -30,4 +28,4 @@ How to Add Title , Post in Form
 
 - In Email Field: Enter Your Blog Email Address which you got from Setting
 - In Subject Field: Add Title of Post
-- **In Post Filed: Add Post Content and at the End of Text add `#end.` **
+- In Post Filed: Add Post Content and at the End of Text add `#end`

@@ -24,7 +24,7 @@ Now in `Select event type` click on `On Submit` and hit the `Save` Button.
 
 Now you are ready to Go. Just Keep Below things in your mind
 
-##How to Add Title , Post in Form
+How to Add Title , Post in Form
 
 - In Email Field: Enter Your Blog Email Address which you got from Setting
 - In Subject Field: Add Title of Post

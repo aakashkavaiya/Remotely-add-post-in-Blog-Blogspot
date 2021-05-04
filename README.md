@@ -15,10 +15,10 @@ Add Summary Column to get Email Response
 
 In Google Sheet go to `Tools > Script Editor`
 
-in Script Editor clear all text and Past Code from Code.js and Click on `Save :fa-file-text-o: `
+in Script Editor clear all text and Past Code from Code.js and Click on `Save`
 
 Now go to `Trigger` option and Click on `Add Trigger` Button (Right Bottom Side)
-Add `Select event source` it should be on From `Spreadsheet`
+Add `Select event source` . it should be on `Spreadsheet`
 
 Now in `Select event type` click on `On Submit` and hit the `Save` Button.
 
